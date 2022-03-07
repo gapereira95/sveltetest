@@ -96,6 +96,7 @@
 								<option>02</option>
 								<option>03</option>
 								<option>04</option>
+								<option>05</option>
 							</select>
 						</div>
 						<p class="text-xs leading-3 text-gray-600 dark:text-white pt-2">Height: 10 inches</p>
