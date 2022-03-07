@@ -41,7 +41,7 @@
 					<a class="text-lg uppercase mx-3 text-white cursor-pointer hover:text-gray-300"> Info </a>
 					<!-- svelte-ignore a11y-missing-attribute -->
 					<a class="text-lg uppercase mx-3 text-white cursor-pointer hover:text-gray-300">
-						Contact
+						Contacto
 					</a>
 				</div>
 			</div>
