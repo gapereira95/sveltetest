@@ -176,7 +176,7 @@
 						<p class="text-xs leading-3 text-gray-800 dark:text-white md:pt-0 pt-4">RF293</p>
 						<div class="flex items-center justify-between w-full">
 							<p class="text-base font-black leading-none text-gray-800 dark:text-white">
-								Luxe card holder
+								testtest
 							</p>
 							<select
 								aria-label="Select quantity"
