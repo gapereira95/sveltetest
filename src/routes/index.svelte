@@ -32,8 +32,11 @@
 				<!-- svelte-ignore a11y-missing-attribute -->
 				<div class="hidden md:flex items-center">
 					<!-- svelte-ignore a11y-missing-attribute -->
-					<a class="text-lg uppercase mx-3 text-white cursor-pointer hover:text-gray-300">
-						Ticket
+					<a
+						class="text-lg uppercase mx-3 text-white cursor-pointer hover:text-gray-300"
+						href="/Mercadito"
+					>
+						Mercadito
 					</a>
 					<a class="text-lg uppercase mx-3 text-white cursor-pointer hover:text-gray-300"> Info </a>
 					<!-- svelte-ignore a11y-missing-attribute -->
@@ -50,7 +53,7 @@
 				Life-changing
 			</h1>
 			<a
-				href="/"
+				href="/usuarios"
 				class="block bg-gray-800 hover:bg-gray-900 py-3 px-4 text-lg text-white font-bold uppercase mt-10"
 			>
 				Start Now
