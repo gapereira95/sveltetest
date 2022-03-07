@@ -46,8 +46,8 @@
 			<div
 				class="relative p-1 flex gap-4 items-center justify-end w-1/4 ml-5 mr-4 sm:mr-0 sm:right-auto"
 			>
-				<a href="/" class="block relative capitalize"> inicio </a>
-				<a href="/landing" class="block relative capitalize"> landing </a>
+				<a href="/" class="block relative capitalize"> start </a>
+				<a href="/landing" class="block relative capitalize"> inicio </a>
 				<a href="/usuarios" class="block relative capitalize"> usuarios </a>
 			</div>
 		</div>
